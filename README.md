@@ -1,6 +1,6 @@
 # CDR_Analysis_Tool
 Call Detail Record Analysis tool for forensic analysis of call detail records.
-Steps:
+Steps: 
 Import database to mysql server.
 Import project to Netbeans.
 The databse contains login table for login ids.
